@@ -32,3 +32,6 @@ print(c)
 print("Quelle est votre choix?")
 choix=input().lower()
 print("Vous avez choisi", choix)
+
+
+#yo
