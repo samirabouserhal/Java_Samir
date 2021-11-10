@@ -34,4 +34,3 @@ choix=input().lower()
 print("Vous avez choisi", choix)
 
 
-#yo
