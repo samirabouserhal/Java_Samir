@@ -2,6 +2,6 @@ class Bonjour
 {
 	public static void main( String[] args )
 	{
-		System.out.println("WHO'S THIS!!!!");
+		System.out.println("TEST!!");
 	}
 }
