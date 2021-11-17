@@ -1,4 +1,4 @@
-public class FirstProg 
+public class AnImportantMessage 
 {
     public static void main (String [] agrs)
     {
